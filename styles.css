@@ -2,13 +2,6 @@ body {
     background-color: #242424;
     padding: 10px;
     border-radius: 12px;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    width: 400px;
 }
 
 introduction {
@@ -17,39 +10,18 @@ introduction {
 
     gap: 10;
     margin-bottom: 40px;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 header {
     font-size: 48px;
     font-weight: ultralight;
     font-style: italic;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 result {
     margin-top: 20px;
 
     font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 list {
@@ -59,58 +31,28 @@ list {
     gap: 60;
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 list2 {
     align-items: center;
 
     direction: column;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 item {
     direction: column;
     gap:10;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 item-title {
     font-size: 24px;
     font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
 }
 
 input {
     padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
+    border-color: #616161;
+    border-width: 1px;
     border-style: solid;
     border-radius: 12px;
 
@@ -119,12 +61,11 @@ input {
 
 spacing {
     margin-bottom: 10px;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 5px;
-    border-color: #ff0000;
-    border-width: 20px;
-    border-style: solid;
-    border-radius: 12px;
-    width: 400px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid green; /* Adding a green border */
 }
