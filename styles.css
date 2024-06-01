@@ -72,4 +72,5 @@ square {
     border-style: solid;
     padding: 10px;
     margin-right: 20px;
+    direction: column;
 }
