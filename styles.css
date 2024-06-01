@@ -1,0 +1,9 @@
+square {
+    padding: 5px;
+    border-color: #00ff6a;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 12px;
+
+    width: 400px;
+}
