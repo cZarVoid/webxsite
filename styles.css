@@ -67,5 +67,7 @@ spacing {
     width: 100px;
     height: 100px;
     background-color: blue;
-    border: 2px solid green; /* Adding a green border */
+    border-color: #00ff00; 
+    border-width: 10px;
+    border-style: solid;
 }
